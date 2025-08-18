@@ -20,10 +20,6 @@ Built to run fully in **Google Colab** using **Streamlit + Ngrok**, this project
 
 ---
 
-##  Live Demo                                       
-
-👉 **Try the app here:** [Music Generation](https://5570a49478cb.ngrok-free.app/)
-
 ## Who Can Use This?
 
 | User Type           | How It Helps                                                           |
